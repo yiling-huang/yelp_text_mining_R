@@ -1,6 +1,6 @@
 # yelp_text_mining_R
 
-use yelp dataset to do text mining in R
+Apply yelp dataset to do text mining in R
 This is a subset of Yelp's businesses, reviews, and user data.
 Only focus on useful review in 2014 (the most recent data)
 
