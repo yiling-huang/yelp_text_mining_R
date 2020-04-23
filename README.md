@@ -26,3 +26,5 @@ This text analysis can help customers and business achieve the following goals:
 Help businesses improve their strategy by reading reviews
 Help business holders keep up with the popular cuisines and hot topics in the current catering industry
 Help  food lovers target the restaurants and dishes to have a satisfactory experience
+
+I also attach r files doing text analytics in order to be clear.
